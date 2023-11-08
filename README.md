@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://zeebeck.tistory.com/"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flat-square&link=https://zeebeck.tistory.com"/></a>&nbsp
   <a href="https://jihunkim4.github.io/"><img src="https://img.shields.io/badge/GithubBlog-181717?style=flat-square&logo=Github&logoColor=white&link=https://jihunkim4.github.io/"/></a>&nbsp
-  <a href="mailto:john.jihun.kim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=john.jihun.kim@gmail.com"/></a>
+  <a href="mailto:jihunkim444@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jihunkim444@gmail.com"/></a>
 </p>
 <br />
 <div align=center>
