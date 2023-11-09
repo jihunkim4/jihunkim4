@@ -13,7 +13,7 @@
 <br />
 <p align="center">📫 Contact</p>
 <p align="center">
-  <a href="https://zeebeck.tistory.com/"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flat-square&link=https://zeebeck.tistory.com"/></a>&nbsp
+  <a href="https://jihunkim.tistory.com/"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flat-square&link=https://jihunkim.tistory.com"/></a>&nbsp
   <a href="https://jihunkim4.github.io/"><img src="https://img.shields.io/badge/GithubBlog-181717?style=flat-square&logo=Github&logoColor=white&link=https://jihunkim4.github.io/"/></a>&nbsp
   <a href="mailto:jihunkim444@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jihunkim444@gmail.com"/></a>
 </p>
